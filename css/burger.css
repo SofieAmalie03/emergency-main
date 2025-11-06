@@ -62,3 +62,19 @@
     font-size: 24px;
   }
 }
+/* Responsivt */
+@media (max-width: 768px) {
+  #main-disclamer {
+    flex-direction: column;
+    text-align: center;
+  }
+  #main-disclamer img {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  .emergency-box {
+    position: static;
+    text-align: center;
+    margin-top: 0.75rem;
+  }
+}

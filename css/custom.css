@@ -1,17 +1,17 @@
 :root {
   /* Colours */
-  --color-bg: #fceb94; /* page background /*
+  --color-bg: #8e8787; /* page background /*
 
   /* Header */
-  --color-head-bg: #ff4b00;
+  --color-head-bg: #800000;
 
   /* Logotype */
-  --color-logotype-bg: #000;
+  --color-logotype-bg: black;
   --color-text-logotype: #fffae2;
   --font-logotype-size: 2rem;
 
   /* Global menu */
-  --color-menu-bg: #5a5b5e;
+  --color-menu-bg: #000000;
   /* Links */
   --color-link-bg: #78766e;
   --color-link-hover: #fff; /* used */
@@ -27,7 +27,7 @@
   --color-headline-text-page: #42413d;
 
   /* Tekst */
-  --color-text: #000;
+  --color-text: #fffefe;
   --color-text-inverted: #cdccc4;
 
   /*  Marginer */
@@ -46,11 +46,11 @@
   --color-cta-newscard-bg-inverted: #7b7d83;
 
   /* Fonts */
-  --font-family-sans: Rubik;
-  /* --font-weight-light: 300;
+  --font-family-sans: "Rubik";
+  --font-weight-light: 300;
   --font-weight-regular: 400;
   --font-weight-medium: 500;
-  --font-weight-bold: 700; */
+  --font-weight-bold: 700;
 
   /* Text sizes */
   --logotype-size: 1rem;
